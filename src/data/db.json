@@ -1,5 +1,6 @@
 {
-    "programacion": {
+    "programacion": [
+        {
         "idTeatro1": {
             "sala1": [
                 {
@@ -144,7 +145,8 @@
                 }
             ]
         }
-    },
+    }
+    ],
     "teatros":[
         {
             "id": 1,
